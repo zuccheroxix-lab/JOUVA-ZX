@@ -1,0 +1,6 @@
+{
+  "name": "ZX GAMING COMPANION",
+  "description": "Gaming utility companion featuring floating HUD overlay, real-time system monitoring, crosshair assistant, sensitivity coordinator, and game profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
